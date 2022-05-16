@@ -1,1 +1,1 @@
-# SQL_10_Days_Challenge-
+# SQL_10_Days_Challenge
